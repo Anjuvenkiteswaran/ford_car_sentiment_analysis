@@ -71,13 +71,4 @@ llm = OpenAI(temperature=0.0)
   - **Liked_Features**: Specific features praised by the reviewer.
   - **Disliked_Features**: Specific features criticized by the reviewer.
 
----
 
-## **Extensions:**
-1. **Visualization**:
-   - Create visualizations of the sentiment distribution.
-   - Highlight the most frequently mentioned pros and cons.
-2. **Improved Analysis**:
-   - Use a fine-tuned LLM for better accuracy in insights extraction.
-3. **Scalability**:
-   - Integrate the pipeline with a cloud service for real-time analysis of incoming reviews.
